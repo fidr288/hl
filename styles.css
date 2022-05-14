@@ -23,6 +23,10 @@
       background:#3498db;
   }
   
+  .name-hero a:hover
+  {
+      background: #808080;
+  }
   h1
   {
       color:rgba(0,0,0,.75);
@@ -109,6 +113,21 @@
       width:85%;
   }
   
+  .name-hero a
+  {
+    background:rgba(0,0,0,.75);
+    border-radius:5px;
+    color:#FFF;
+    padding:10px;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    width: 35%;
+    margin-left:auto;
+    margin-right:auto;
+    font-size:0.7em; 
+  }
+
   .inner
   {
       margin:0 auto;
